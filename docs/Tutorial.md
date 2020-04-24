@@ -1,8 +1,8 @@
-# Tutorial
+# Tutorial test
 
 ## Preparations
   1. Github account - [github](https://github.com)
-    - Team github account cb-va-github@lianlianpay.com
+    - Team github account **cb-va-github@lianlianpay.com**
   2. Stoplight accont - [stoplight](https://stoplight.io/p/signup)
   3. Link your github account with stoplight account, you can stil use stoplight without a git, but everything you created will be maintained locally and you cannot publish the doc
 
