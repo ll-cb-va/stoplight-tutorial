@@ -2,6 +2,7 @@
 
 ## Preparations
   1. Github account - [github](https://github.com)
+    - Team github account cb-va-github@lianlianpay.com
   2. Stoplight accont - [stoplight](https://stoplight.io/p/signup)
   3. Link your github account with stoplight account, you can stil use stoplight without a git, but everything you created will be maintained locally and you cannot publish the doc
 
@@ -133,6 +134,7 @@ HTTP Methods -- GET POST PUT PATCH DELETE ...
   2. Element order in schema is also controled by actual code order in json file, adjust from there if you want to have a different order
   3. Give one common tag to those endpoints that you want to display together, no need to give a tag to models
   4. If you are trying to create a common component, create one API contains all models and paths. Means all content in one file
+  5. If working together, make sure to pull the latest before start and commit/push when you finished. Better to work on your own branch. 
 
 
 
